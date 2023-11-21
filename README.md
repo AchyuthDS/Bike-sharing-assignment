@@ -7,7 +7,7 @@ The objective is to model the demand for shared bikes with the available indepen
 
 
 
-##Problem Solving Methodology
+##Problem Solving Methodology 
 Data Understanding-
 Understanding and working with data dictionary and getting good knowledge of all the columns and their domain specific uses.
 
